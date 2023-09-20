@@ -4,7 +4,7 @@ let customer1 ={
 }
 let customer2 ={
     name:'Musab',
-    age:69
+    age:21
 }
 
 customer1=customer2

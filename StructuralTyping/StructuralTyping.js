@@ -5,7 +5,7 @@ var customer1 = {
 };
 var customer2 = {
     name: 'Musab',
-    age: 69
+    age: 21
 };
 customer1 = customer2;
 console.log(customer1);
