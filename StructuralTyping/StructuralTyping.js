@@ -1,9 +1,9 @@
 "use strict";
-var customer1 = {
+let customer1 = {
     name: 'Ahmed',
     age: 20
 };
-var customer2 = {
+let customer2 = {
     name: 'Musab',
     age: 21
 };
